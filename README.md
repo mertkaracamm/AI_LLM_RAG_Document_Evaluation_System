@@ -97,7 +97,7 @@ My solution uses an **agentic AI system** powered by GPT-4 that:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mertkaracamm/RedisDocLLMEvaluationService.git](https://github.com/mertkaracamm/AI_LLM_RAG_Document_Evaluation_System.git
+git clone https://github.com/mertkaracamm/AI_LLM_RAG_Document_Evaluation_System.git
 cd RedisDocLLMEvaluationService
 ```
 
