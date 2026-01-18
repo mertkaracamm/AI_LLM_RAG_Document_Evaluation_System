@@ -297,19 +297,6 @@ Structured prompts guide the LLM to return consistent JSON:
 - **Semantic Search**: ~100ms for 1000 indexed documents
 - **Total End-to-End**: ~6-10 seconds
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**Mert Karacam**
-- GitHub: [@mertkaracamm](https://github.com/mertkaracamm)
-
 ## 🙏 Acknowledgments
 
 - Built with Spring Boot, OpenAI GPT-4, and Redis Stack
