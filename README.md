@@ -6,7 +6,7 @@ An intelligent document compliance evaluation system that leverages Large Langua
 
 This service addresses the challenge of manual document review processes in financial and legal domains. Traditional workflows require external reviewers to manually validate 10-20 documents per batch, checking for compliance with rules such as signature presence, date validation, and specific wording requirements. This process is slow, error-prone, and inconsistent.
 
-Our solution uses an **agentic AI system** powered by GPT-4 that:
+My solution uses an **agentic AI system** powered by GPT-4 that:
 - Parses PDF documents and extracts content
 - Evaluates documents against configurable compliance rules
 - Uses semantic search (RAG) to find relevant context from historical approvals
